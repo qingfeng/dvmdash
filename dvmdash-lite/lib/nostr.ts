@@ -6,7 +6,8 @@ const relays = [
   'wss://relay.damus.io',
   'wss://relay.primal.net',
   'wss://nos.lol',
-  'wss://relay.snort.social'
+  'wss://relay.snort.social',
+  'wss://relay.2020117.xyz'
 ];
 
 // Initialize NDK with configuration to prevent hanging
